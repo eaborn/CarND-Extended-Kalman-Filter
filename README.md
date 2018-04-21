@@ -101,3 +101,4 @@ The simulator provides two datasets. The difference between them are:
 ![png](./dataset1.png)
 ![png](./dataset2.png)
 
+Red circles are lidar measurements. Blue circles are radar measurements. Green markers are the car's position as estimated by the Kalman filter. It shows that by using EKF we get a pretty good result to track the car's location.
